@@ -1,0 +1,10 @@
+rdkit-pypi==2022.3.3
+scikit-image>=0.19.2
+opencv-python>=4.0
+pillow==9.0.0
+torch>=1.8.0
+torch-geometric>=2.0
+torch-sparse
+torch-summary
+pandas
+tqdm
