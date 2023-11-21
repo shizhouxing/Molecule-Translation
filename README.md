@@ -1,5 +1,9 @@
 # Relational Learning for Molecule Translation from Noisy Images
 
+UCLA CS 267 (Spring 2022) project by Zhouxing Shi, Boyang Fu, Yifei Xu, Yuxin Wu.
+
+We propose to improve [molecule translation](https://www.kaggle.com/competitions/bms-molecular-translation) by leveraging the graphical structure information of molecules with Graph Neural Networks.
+
 ## Data
 
 Download generated data from [Google Drive](https://drive.google.com/drive/folders/1Rykr7ZxcArQ7mIdV4WGeAdnAGS25g1b-?usp=sharing), and extract the data to the `data/` folder.
